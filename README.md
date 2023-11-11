@@ -57,6 +57,10 @@
 
 
 
+<h3> Исходное видео</h3>
+
+https://github.com/vlyrdv/duplication_model/assets/95037700/7a73fa1c-8ad2-43c3-833a-c2a19807d27f
+
 
 
 
