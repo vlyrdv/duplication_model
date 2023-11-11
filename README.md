@@ -56,17 +56,23 @@
 # Пример работы
 
 
+<h2> Исходное видео</h2>
 
-<h3> Исходное видео</h3>
+https://github.com/vlyrdv/duplication_model/assets/95037700/8f663860-06d2-4246-b9ee-972f7a2f4666
 
-https://github.com/vlyrdv/duplication_model/assets/95037700/7a73fa1c-8ad2-43c3-833a-c2a19807d27f
+<h2> Видео без lip-sync </h2>
 
+https://github.com/vlyrdv/duplication_model/assets/95037700/98070cce-83be-4ee7-a1d9-cf0b070de700
 
+<h2> Видео с lip-sync </h2>
 
+https://github.com/vlyrdv/duplication_model/assets/95037700/17fe745c-c2e8-4c51-9380-97c2d35fc7d4
 
+# Архитектура
 
-
-В проекте участвовали 
-- <h4><a href="https://github.com/vlyrdv">Урядов Валерий</a></h4>
-- <h4><a href="https://github.com/abrikosmna">Мокийчук Никита</a></h4>
-- <h4><a href="https://github.com/GermanKek-lab">Кек Герман</a></h4>
+![Group 2](https://github.com/vlyrdv/duplication_model/assets/95037700/4097702e-a20e-4352-ab7d-dd7f51720242)
+<br>
+<h2>В проекте участвовали </h2>
+<h3><a href="https://github.com/vlyrdv">Урядов Валерий</a></h3>
+<h3><a href="https://github.com/abrikosmna">Мокийчук Никита</a></h3>
+<h3><a href="https://github.com/GermanKek-lab">Кек Герман</a></h3>
