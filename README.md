@@ -70,7 +70,8 @@ https://github.com/vlyrdv/duplication_model/assets/95037700/17fe745c-c2e8-4c51-9
 
 # Архитектура
 
-![Group 2](https://github.com/vlyrdv/duplication_model/assets/95037700/4097702e-a20e-4352-ab7d-dd7f51720242)
+
+![Group 5-2](https://github.com/vlyrdv/duplication_model/assets/95037700/540b61e6-e923-4289-95c5-f2474ca5532b)
 <br>
 <h2>В проекте участвовали </h2>
 <h3><a href="https://github.com/vlyrdv">Урядов Валерий</a></h3>
