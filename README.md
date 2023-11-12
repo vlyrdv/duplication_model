@@ -9,8 +9,8 @@
 2. Lip_sync.ipynb - модель для создание реалистичного lip-sync
 3. state - папка с видео
 
-# Ссылка на готовые видео
-## [https://disk.yandex.ru/d/YmIku8mxXjR3hg](https://disk.yandex.ru/d/ukXG4UoCTT-Nbg)
+
+<a href="https://disk.yandex.ru/d/YmIku8mxXjR3hg">Ссылка на готовые видео<a/>
 
 # Инструкция по работе с model.ipynb
 
