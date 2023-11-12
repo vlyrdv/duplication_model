@@ -6,7 +6,7 @@
 ### Структура проекта
 
 1. model.ipynb - основной код проекта
-2. lip-sync.ipynb - модель для создание реалистичного lip-sync
+2. Lip_sync.ipynb - модель для создание реалистичного lip-sync
 3. state - папка с видео
 
 
@@ -23,6 +23,20 @@
 
 ```uploaded = 'name_your_video.mp4' ```<br /><br />
 
+# Инструкция по работе с Lip_sync.ipynb
+
+1. Установка библиотек
+
+2. подгрузка моделей
+
+3. загрузите видео на, которое хотите наложить lip_sync  
+
+```upload = 'name_your_video.mp4' ```
+
+4. для корректной работы модели пройдите по вот этому пути:
+```/content/video-retalking/third_part/GPEN/gpen_face_enhancer.py ```
+и на 50 строчку добавте вот это -
+```global mask_sharp```
 
 
 # Пример работы
