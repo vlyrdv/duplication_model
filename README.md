@@ -65,7 +65,10 @@ https://github.com/vlyrdv/duplication_model/assets/95037700/98070cce-83be-4ee7-a
 
 <h2> Видео с lip-sync </h2>
 
-https://github.com/vlyrdv/duplication_model/assets/95037700/17fe745c-c2e8-4c51-9380-97c2d35fc7d4
+
+https://github.com/vlyrdv/duplication_model/assets/95037700/818765a1-108d-45ae-82ba-d6252666acba
+
+
 
 # Архитектура
 ![Group 6](https://github.com/vlyrdv/duplication_model/assets/95037700/0ce6d5da-be9c-4f01-9247-61931411e233)
