@@ -10,7 +10,7 @@
 3. state - папка с видео
 
 # Ссылка на готовые видео
-## https://disk.yandex.ru/d/YmIku8mxXjR3hg
+## [https://disk.yandex.ru/d/YmIku8mxXjR3hg](https://disk.yandex.ru/d/ukXG4UoCTT-Nbg)
 
 # Инструкция по работе с model.ipynb
 
