@@ -10,7 +10,7 @@
 3. state - папка с видео
 
 
-<a href="[[https://disk.yandex.ru/d/YmIku8mxXjR3hg](https://disk.yandex.ru/d/ukXG4UoCTT-Nbg)](https://disk.yandex.ru/d/ukXG4UoCTT-Nbg)">Ссылка на готовые видео<a/>
+<a href="https://disk.yandex.ru/d/ukXG4UoCTT-Nbg">Ссылка на готовые видео<a/>
 
 # Инструкция по работе с model.ipynb
 
