@@ -9,34 +9,6 @@
 2. lip-sync.ipynb - модель для создание реалистичного lip-sync
 3. state - папка с видео
 
-### Running the project
-Перед запуском надо установить все необходимые библиотеки
-```   !pip install spleeter
-      !pip install ffmpeg
-      !pip install -U openai-whisper
-      !pip install git+https://github.com/openai/whisper.git
-      !pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
-      !pip install setuptools-rust
-      !pip install translators
-      !pip install scipy
-      !pip install nltk
-      !pip install torch
-      !pip install transformers
-      !pip install bark
-      !pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1
-      !pip install colorama
-      !pip install gTTS
-      !pip install pydub
-      !pip install playsound
-      !pip install ffmpeg-python
-      !pip install spleeter
-      !pip install audio-effects
-      !pip install moviepy
-      !pip install TTS
-      !git clone https://github.com/coqui-ai/TTS
-      !pip install -e all
-```
-
 
 
 # Инструкция по работе с model.ipynb
